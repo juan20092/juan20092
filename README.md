@@ -16,8 +16,8 @@
   </p>
   
   <!-- CONTADOR DE VISITAS ANIMADO -->
-  <img src="https://komarev.com/ghpvc/?username=thecarlos19&label=VISITANTES&color=00FFFF&style=for-the-badge" alt="visitas"/>
-  <img src="https://img.shields.io/badge/ONLINE-24%2F7-00FF00?style=for-the-badge&logo=vercel&logoColor=white" alt="online"/>
+  <img src="https://cdn.dix.lat/me/feae40c1-7766-48e5-a857-e4c137112a49.gif" alt="visitas"/>
+  <img src="https://cdn.dix.lat/me/feae40c1-7766-48e5-a857-e4c137112a49.gif" alt="online"/>
 </div>
 
 <!-- MATRIX RAIN EFFECT -->
