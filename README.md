@@ -74,7 +74,7 @@
 ## 📊Mis  estadísticas 
 
 <div align="center">
-  <a href="https://github.com/thecarlos19/">
+  <a href="https://github.com/juan20092/">
     <img src="https://github-readme-stats.vercel.app/api?username=thecarlos19&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0,000000,0D1117&locale=es&border_color=00FFFF" width="450" alt="GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thecarlos19&show_icons=true&locale=es&layout=compact&line_height=20&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0,000000,0D1117&border_color=00FFFF" width="290" alt="Top Languages"/>
   </a>
