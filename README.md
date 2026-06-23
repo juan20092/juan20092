@@ -90,7 +90,7 @@
 
 <p align="center">
   <a href="https://github.com/juan20092/MELIODAS-BOT-WZR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juan20092&repo=MeliodasBot-MD&theme=midnight-purple&border_color=00FFFF&title_color=00FFFF&icon_color=FF00FF" alt="MELIODAS BOT"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juan20092&repo=MeliodasBot-MD&theme=midnight-purple&border_color=00FFFF&title_color=00FFFF&icon_color=FF00FF" alt="MELIODASBOT"/>
   </a>
 </p>
 
