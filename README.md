@@ -89,16 +89,16 @@
 ## 💻 MI PROYECTO PRINCIPAL 
 
 <p align="center">
-  <a href="https://github.com/thecarlos19/black-clover-MD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecarlos19&repo=black-clover-MD&theme=midnight-purple&border_color=00FFFF&title_color=00FFFF&icon_color=FF00FF" alt="Black Clover MD"/>
+  <a href="https://github.com/juan20092/MELIODAS-BOT-WZR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juan20092&repo=MeliodasBot-MD&theme=midnight-purple&border_color=00FFFF&title_color=00FFFF&icon_color=FF00FF" alt="MELIODAS BOT"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/thecarlos19/black-clover-MD/archive/refs/heads/master.zip">
-    <img src="https://img.shields.io/badge/⬇️_DESCARGAR-BLACK_CLOVER_V777-00FFFF?style=for-the-badge&logo=github&logoColor=000" alt="Download"/>
+  <a href="https://github.com/juan20092/MELIODAS-BOT-WZR/archive/refs/heads/master.zip">
+    <img src="https://img.shields.io/badge/⬇️_MELIODAS-BOT-00FFFF?style=for-the-badge&logo=github&logoColor=000" alt="Download"/>
   </a>
-  <a href="https://github.com/thecarlos19/black-clover-MD">
+  <a href="https://github.com/juan20092/MELIODAS-BOT-WZR">
     <img src="https://img.shields.io/badge/⭐_DAR_ESTRELLA-GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=000" alt="Star"/>
   </a>
 </p>
@@ -109,9 +109,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
-
-<blockquote>
-  <b>⚙️ Powered By</b> <a href="https://wa.me/525544876071?text=Hola+vengo+de+tu+perfil+de+GitHub+👑">The Carlos 👑</a> | 
-  <b>🔥 Version:</b> <code>V777 2026 Edition</code> | 
-  <b>⚡ Uptime:</b> <code>99.9%</code>
-</blockquote>
