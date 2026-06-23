@@ -12,7 +12,7 @@
   </p>
 
   <p style="font-size:16px; color:#00FFFF; margin-top:12px; text-shadow:0 0 8px #00FFFF;">
-    Dev - The Carlos 👑 | <code style="color:#FF00FF;">STATUS: DEPLOYING 24/7</code>
+    Dev - JUAN WZ 👑 | <code style="color:#FF00FF;">STATUS: DEPLOYING 24/7</code>
   </p>
   
   <!-- CONTADOR DE VISITAS ANIMADO -->
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&lines=۞+LA+RED+NO+DUERME+Y+YO+TAMPOCO;۞+HACKEANDO+WHATSAPP+DESDE+2026;۞+ANTI+VIEW+ONCE+ACTIVADO;۞+IA+NEURAL+INTEGRADA" alt="Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&lines=❉+LA+RED+NO+DUERME+Y+YO+TAMPOCO;❉+HACKEANDO+WHATSAPP+DESDE+2023;❉+IA+NEURAL+INTEGRADA" alt="Typing"/>
 </p>
 
 <p align="center">
