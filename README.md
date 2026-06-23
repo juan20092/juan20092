@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- ANIMACIÓN DE TERMINAL ESCRIBIENDO -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=45&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=60&lines= THE+LION+2024;SYSTEM+ONLINE;ACCESS+GRANTED;JUAN+WZ7" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=45&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=60&lines=THE+LEGENDS+2026;SYSTEM+ONLINE;ACCESS+GRANTED;BLACK+CLOVER+V777" alt="Typing Animation"/>
   
   <p style="background:linear-gradient(90deg,#00FFFF33,#FF00FF33,#1E90FF33); border:1px solid #00FFFF88; border-radius:12px; padding:18px 35px; display:inline-block; color:#FFD166; font-family:Share Tech Mono, monospace; font-size:30px; box-shadow:0 0 20px #00FFFF66 inset, 0 0 30px #00FFFF44; animation: pulse 2s infinite;">
     <b> Dev • Bots </b>
