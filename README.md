@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://wa.me/525544876071?text=Hola+Carlos%2C+vengo+de+tu+perfil+de+GitHub+💻">
-    <img src="https://files.catbox.moe/kn2z7q.jpg" height="140px" style="border:2px solid #00FFFF; border-radius:15px; box-shadow:0 0 20px #00FFFF88;" alt="WhatsApp Contact"/>
+    <img src="https://cdn.dix.lat/me/c36e815c-b244-4d9c-9f6f-a69129005cfb.jpg" height="140px" style="border:2px solid #00FFFF; border-radius:15px; box-shadow:0 0 20px #00FFFF88;" alt="WhatsApp Contact"/>
   </a>
 </p>
 
