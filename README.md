@@ -40,23 +40,17 @@
 ## 📱 CONTACTO DIRECTO Y MIS REDES
 
 <p align="center">
-  <a href="https://wa.me/525544876071?text=Hola+Carlos%2C+vengo+de+tu+perfil+de+GitHub+💻">
+  <a href="https://wa.me/380917232173?text=Hola+Carlos%2C+vengo+de+tu+perfil+de+GitHub+💻">
     <img src="https://cdn.dix.lat/me/c36e815c-b244-4d9c-9f6f-a69129005cfb.jpg" height="140px" style="border:2px solid #00FFFF; border-radius:15px; box-shadow:0 0 20px #00FFFF88;" alt="WhatsApp Contact"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://wa.me/525544876071">
+  <a href="https://wa.me/380917232173">
     <img src="https://img.shields.io/badge/WhatsApp-525544876071-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=000" alt="WhatsApp"/>
   </a>
-  <a href="https://instagram.com/_carlitos.zx">
+  <a href="https://instagram.com/juan.prieto29">
     <img src="https://img.shields.io/badge/Instagram-_carlitos.zx-FF0090?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"/>
-  </a>
-  <a href="https://tiktok.com/@_carlitos.zx">
-    <img src="https://img.shields.io/badge/TikTok-_thecarlos.ok-000000?style=for-the-badge&logo=tiktok&logoColor=FF00FF" alt="TikTok"/>
-  </a>
-  <a href="https://youtube.com/@thecarlos19">
-    <img src="https://img.shields.io/badge/YouTube-TheCarlos19-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
@@ -67,9 +61,6 @@
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04?text=.menu">
     <img src="https://img.shields.io/badge/CANAL_OFICIAL-UNIRSE_AHORA-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=FF0000" alt="Canal Oficial"/>
-  </a>
-  <a href="https://chat.whatsapp.com/HBJ8BniXgtNHfiLQFKwrcV">
-    <img src="https://img.shields.io/badge/GRUPO_SOPORTE-24%2F7-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Grupo"/>
   </a>
 </p>
 
