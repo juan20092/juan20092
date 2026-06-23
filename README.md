@@ -1,6 +1,6 @@
 <!-- 🎮 BANNER ANIMADO GLITCH 2026 -->
 <p align="center">
-  <img src="https://cdn.dix.lat/me/b6c01f2e-6307-430f-ae28-121687a9e2c9.gif" width="100%" alt="Cyberpunk Banner"/>
+  <img src="https://cdn.dix.lat/me/feae40c1-7766-48e5-a857-e4c137112a49.gif" width="100%" alt="120%"/>
 </p>
 
 <div align="center">
@@ -20,10 +20,6 @@
   <img src="https://img.shields.io/badge/ONLINE-24%2F7-00FF00?style=for-the-badge&logo=vercel&logoColor=white" alt="online"/>
 </div>
 
-<!-- MATRIX RAIN EFFECT -->
-<p align="center">
-  <img src="https://cdn.dix.lat/me/feae40c1-7766-48e5-a857-e4c137112a49.gif" width="100%" height="120"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&lines=❉+LA+RED+NO+DUERME+Y+YO+TAMPOCO;❉+HACKEANDO+WHATSAPP+DESDE+2023;❉+IA+NEURAL+INTEGRADA" alt="Typing"/>
