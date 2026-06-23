@@ -22,10 +22,6 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&lines=❉+LA+RED+NO+DUERME+Y+YO+TAMPOCO;❉+HACKEANDO+WHATSAPP+DESDE+2023;❉+IA+NEURAL+INTEGRADA" alt="Typing"/>
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,mongodb,redis,python,docker,git,github,vscode,linux&theme=dark" alt="Tech Stack"/>
 </p>
 
