@@ -1,6 +1,6 @@
 <!-- 🎮 BANNER ANIMADO GLITCH 2026 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/banner-header.gif" width="100%" alt="Cyberpunk Banner"/>
+  <img src="https://cdn.dix.lat/me/b6c01f2e-6307-430f-ae28-121687a9e2c9.gif" width="100%" alt="Cyberpunk Banner"/>
 </p>
 
 <div align="center">
