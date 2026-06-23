@@ -47,10 +47,10 @@
 
 <p align="center">
   <a href="https://wa.me/380917232173">
-    <img src="https://img.shields.io/badge/WhatsApp-525544876071-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=000" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-380917232173-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=000" alt="WhatsApp"/>
   </a>
   <a href="https://instagram.com/juan.prieto29">
-    <img src="https://img.shields.io/badge/Instagram-_carlitos.zx-FF0090?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-juan.prieto29-FF0090?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"/>
   </a>
 </p>
 
@@ -59,7 +59,7 @@
 ## Mi  CANAL OFICIAL
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04?text=.menu">
+  <a href="https://whatsapp.com/channel/0029VbARAwbEgGfOsCN1T10V?text=.menu">
     <img src="https://img.shields.io/badge/CANAL_OFICIAL-UNIRSE_AHORA-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=FF0000" alt="Canal Oficial"/>
   </a>
 </p>
